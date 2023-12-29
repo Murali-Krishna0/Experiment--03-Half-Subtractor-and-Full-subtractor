@@ -54,7 +54,9 @@ endmodule
 
 ##  RTL realization
 ## HALF SUBTRACTOR
-![image](https://github.com/Murali-Krishna0/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149054535/c831e216-dae7-4c91-afb0-33aa4d24e9f3)
+
+![image](https://github.com/Murali-Krishna0/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149054535/6d487fab-8512-4c6c-8815-198f22466ee1)
+
 ## FULL SUBTRACTOR
 
 ![image](https://github.com/Murali-Krishna0/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149054535/dc6cb8e4-504c-4c18-80d9-7eb70423fade)
